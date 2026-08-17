@@ -2,10 +2,10 @@
 
 ## Team Information
 
-**Team Member:** P. Chaitanya Kumar
-**ID Number:** 2420030760
-**Branch:** CSE
-**Academic Year:** 2026-27
+**Team Member:** P. Chaitanya Kumar  
+**ID Number:** 2420030760  
+**Branch:** CSE  
+**Academic Year:** 2026-27  
 **Supervisor:** Dr. Archana Kalindi
 
 ## Abstract
